@@ -1,0 +1,4 @@
+/***** TITLE BAR - WINDOWS *****/
+.titlebar-buttonbox-container {
+  display: none !important;
+}
